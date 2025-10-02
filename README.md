@@ -69,9 +69,14 @@
 
 ## 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepbrsra&layout=compact&theme=radical)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepbrsra&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=sleepbrsra&theme=radical)
+<details>
+  <summary>Show GitHub Stats ✅</summary>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepbrsra&layout=compact&theme=radical)  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepbrsra&show_icons=true&theme=radical)  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=sleepbrsra&theme=radical)
+
+</details>
 
 ---
 
