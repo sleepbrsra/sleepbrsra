@@ -52,7 +52,6 @@
 ## 📂 Projects
 
 - **[LunarisOS](https://github.com/sleepbrsra/LunarisOS)** → experimental OS with a custom kernel  
-- **[WinMini](https://github.com/sleepbrsra/WinMini)** → minimalist Windows game launcher for Linux  
 - **Archatheon** → decentralized platform with NFTs and reputation-based escrow  
 - **[🌌 LuminaX] (https://github.com/sleepbrsra/LuminaX)** — experimental modular platform with futuristic UI and automation.
 
@@ -70,7 +69,7 @@
 - ✉️ Email: **  
 - 💬 Telegram: [@d3rrkk1a](https://t.me/d3rrkk1a)  
 - 🌐 Portfolio/Website: *coming soon*
-- 💼 LinkedIn: [linkedin.com/in/your_nick](https://www.linkedin.com/in/d3rrk1a/)
+- 💼 LinkedIn: [linkedin.com/in/d3rrk1a](https://www.linkedin.com/in/d3rrk1a/)
 
 ---
 
