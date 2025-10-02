@@ -66,7 +66,16 @@
 - **[🌌 LuminaX](https://github.com/sleepbrsra/LuminaX)** — experimental modular platform with futuristic UI and automation.
 
 ---
+<details>
+  <summary>🌟 Interests</summary>
 
+- 🔭 Astronomy & Space  
+- 💻 Hackathons & CTF  
+- 📚 Reading Sci-Fi & Tech Books  
+- 🛠️ DIY Electronics & Programming Projects  
+
+</details>
+---
 ## 📊 Stats
 
 <details>
