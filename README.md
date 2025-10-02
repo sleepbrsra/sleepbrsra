@@ -1,5 +1,6 @@
 <!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there%20👋%20I'm%20d3rrk1a&fontSize=36&fontAlign=50&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&section=header)
+
 ⚡ Building secure, modular, and futuristic software from scratch.
 ---
 
