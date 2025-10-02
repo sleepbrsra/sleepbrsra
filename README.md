@@ -55,17 +55,15 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ---
 ### 🌐 Languages I speak
-
-![English](https://img.shields.io/badge/English-B1-blue?style=for-the-badge&logo=appveyor&logoColor=white)
-![Russian](https://img.shields.io/badge/Russian-Native-red?style=for-the-badge&logo=appveyor&logoColor=white)
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge&logo=appveyor&logoColor=white)
-
+![English](https://img.shields.io/badge/English-B1-blue?style=for-the-badge&logoColor=white)
+![Russian](https://img.shields.io/badge/Russian-Native-red?style=for-the-badge&logoColor=white)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge&logoColor=white)
 ---
 ## 📂 Projects
 
 - **[LunarisOS](https://github.com/sleepbrsra/LunarisOS)** → experimental OS with a custom kernel  
 - **Archatheon** → decentralized platform with NFTs and reputation-based escrow  
-- **[🌌 LuminaX] (https://github.com/sleepbrsra/LuminaX)** — experimental modular platform with futuristic UI and automation.
+- **[🌌 LuminaX](https://github.com/sleepbrsra/LuminaX)** — experimental modular platform with futuristic UI and automation.
 
 ---
 
@@ -78,7 +76,6 @@
 ---
 
 ## 📫 Contact
-- ✉️ Email: **  
 - 💬 Telegram: [@d3rrkk1a](https://t.me/d3rrkk1a)  
 - 🌐 Portfolio/Website: *coming soon*
 - 💼 LinkedIn: [linkedin.com/in/d3rrk1a](https://www.linkedin.com/in/d3rrk1a/)
