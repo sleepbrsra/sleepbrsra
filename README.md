@@ -1,6 +1,5 @@
 <!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=10&section=header)
-
+![banner](/assets/banner.gif)
 ⚡ Building secure, modular, and futuristic software from scratch.
 ---
 
