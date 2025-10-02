@@ -53,7 +53,10 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
+---
+![English](https://img.shields.io/badge/English-B1-blue?style=for-the-badge&logo=google&logoColor=white)
+![Russian](https://img.shields.io/badge/Russian-Native-red?style=for-the-badge&logo=google&logoColor=white)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=for-the-badge&logo=google&logoColor=white)
 ---
 ## 📂 Projects
 
