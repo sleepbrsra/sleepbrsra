@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there%20👋%20I'm%20d3rrk1a&fontSize=36&fontAlign=50&fontAlignY=35)
-
+⚡ Building secure, modular, and futuristic software from scratch.
 ---
 
 ## 🚀 About Me
@@ -48,7 +48,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
+**Tools & Other:**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+---
 ## 📂 Projects
 
 - **[LunarisOS](https://github.com/sleepbrsra/LunarisOS)** → experimental OS with a custom kernel  
@@ -72,6 +78,6 @@
 - 💼 LinkedIn: [linkedin.com/in/d3rrk1a](https://www.linkedin.com/in/d3rrk1a/)
 
 ---
-
+💡 Feel free to explore my projects, open issues, or create pull requests!
 <!-- Footer -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
