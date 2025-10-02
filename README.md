@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=20&section=header)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=10&section=header)
 
 ⚡ Building secure, modular, and futuristic software from scratch.
 ---
