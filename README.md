@@ -83,4 +83,4 @@
 ---
 💡 Feel free to explore my projects, open issues, or create pull requests!
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+![footer](/assets/banner.gif)
