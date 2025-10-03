@@ -192,8 +192,8 @@
 
 ---
 
-## 📫 Contact
-- 💬 Telegram: [@d3rrkk1a](https://t.me/d3rrkk1a)  
+## 📫 Contact Me
+[![Telegram](https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=messenger&logoColor=white)](https://t.me/d3rrkk1a)
 - 🌐 Portfolio/Website: *coming soon*
 - 💼 LinkedIn: [linkedin.com/in/d3rrk1a](https://www.linkedin.com/in/d3rrk1a/)
 
