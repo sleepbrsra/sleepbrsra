@@ -4,10 +4,8 @@
 ---
 ## 🎓 Specialization
 
-<a href="#" class="specialization-item">
-  <img src="https://img.shields.io/badge/InfoSec-Student-blue?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Information Security" />
-  <span>Information Security – 1st-year student</span>
-</a>
+![Information Security](https://img.shields.io/badge/InfoSec-1st%20Year-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
+
 
 ---
 ## 🚀 About Me
