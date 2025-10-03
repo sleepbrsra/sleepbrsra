@@ -2,7 +2,14 @@
 ![banner](/assets/banner1.gif)
 ⚡ Building secure, modular, and futuristic software from scratch.
 ---
+## 🎓 Specialization
 
+<a href="#" class="specialization-item">
+  <img src="https://img.shields.io/badge/InfoSec-Student-blue?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Information Security" />
+  <span>Information Security – 1st-year student</span>
+</a>
+
+---
 ## 🚀 About Me
 - 🎓 Student in **Information Security**  
 - 🦀 Enthusiast of **Rust**, **OSDev**, and low-level programming  
