@@ -182,7 +182,7 @@
 ## 📊 Stats
 
 <details>
-  <summary>Show GitHub Stats ✅</summary>
+  <summary>Show GitHub Stats</summary>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepbrsra&layout=compact&theme=radical)  
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepbrsra&show_icons=true&theme=radical)  
