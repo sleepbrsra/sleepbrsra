@@ -193,7 +193,9 @@
 ---
 
 ## 📫 Contact Me
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d3rrkk1a) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d3rrk1a/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/d3rrkk1a) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/d3rrk1a/)
+
 
 ---
 💡 Feel free to explore my projects, open issues, or create pull requests!
