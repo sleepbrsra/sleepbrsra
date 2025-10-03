@@ -193,7 +193,7 @@
 ---
 
 ## 📫 Contact Me
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/d3rrkk1a)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d3rrkk1a)
 - 🌐 Portfolio/Website: *coming soon*
 - 💼 LinkedIn: [linkedin.com/in/d3rrk1a](https://www.linkedin.com/in/d3rrk1a/)
 
