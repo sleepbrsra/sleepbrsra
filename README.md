@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-![banner](/assets/banner.gif)
+![banner](/assets/banner1.gif)
 ⚡ Building secure, modular, and futuristic software from scratch.
 ---
 
@@ -100,4 +100,4 @@
 ---
 💡 Feel free to explore my projects, open issues, or create pull requests!
 <!-- Footer -->
-![footer](/assets/banner.gif)
+![footer](/assets/banner1.gif)
