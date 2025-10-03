@@ -195,7 +195,7 @@
 ## 📫 Contact Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/d3rrkk1a) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn%20-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d3rrk1a/)
-[![Visit](https://img.shields.io/badge/000?style=for-the-badge&logoColor=white)](https://sleepbrsra.github.io/d3rrk1a.github.io/)
+[![Visit](https://img.shields.io/badge/X-000000?style=for-the-badge&logoColor=white)](https://sleepbrsra.github.io/d3rrk1a.github.io/)
 
 
 ---
