@@ -4,7 +4,7 @@
 ---
 ## 🎓 Specialization
 
-![Information Security](https://img.shields.io/badge/InfoSec-1st%20Year-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Information Security](https://img.shields.io/badge/Cybersecurity-2st%20Year-blue?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 
 ---
