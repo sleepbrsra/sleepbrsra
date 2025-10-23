@@ -164,7 +164,7 @@
 - **[LunarisOS](https://github.com/sleepbrsra/LunarisOS)** → experimental OS with a custom kernel  
 - **Archatheon** → decentralized platform with NFTs and reputation-based escrow  
 - **[🌌 LuminaX](https://github.com/sleepbrsra/LuminaX)** — experimental modular platform with futuristic UI and automation.
-
+- **[📬 TempMail](https://github.com/sleepbrsra/Temp-Mail-by-d3rrk1a)** — TempMail is a terminal-based temporary email client with Python and Rust implementations, allowing users to create accounts, fetch messages, view content, and copy emails or passwords to the clipboard.
 ---
 ## 🌟Interests
 
